@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Bevan');
+@import url('https://fonts.googleapis.com/css?family=Ultra');
+h1{
+	color:white;
+	font-size: 55px;
+	font-family:"Bevan"
+		
+}
+h4{
+	color:white;
+	font-size: 15px;
+	text-decoration: underline;	
+	font-family:"Ultra";
+}
